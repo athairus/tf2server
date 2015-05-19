@@ -7,4 +7,6 @@
 4. Players (time and date and a demo would be nice)
 
 # What is this?
-Bug tracker for my tf2 server: [site](http://tf.athair.us) | [direct connect](steam://connect/tf.athair.us)
+Bug tracker for my tf2 server: 
+
+[site](http://tf.athair.us) ( http://tf.athair.us ) | [direct connect](steam://connect/tf.athair.us) ( steam://connect/tf.athair.us )
