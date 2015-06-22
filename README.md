@@ -5,6 +5,8 @@
 2. Server feature requests
 3. Map requests
 4. Players (time and date and a demo would be nice)
+5. Plugins
+6. Me
 
 # What is this?
 Bug tracker for my tf2 server: 
