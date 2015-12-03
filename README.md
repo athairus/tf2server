@@ -1,3 +1,5 @@
+# Sorry folks, this server's never gonna launch.
+
 # [Create a new report >>>](https://github.com/athairus/tf2server/issues/new)
 
 # Things you can report:
