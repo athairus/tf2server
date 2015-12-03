@@ -13,4 +13,4 @@
 # What is this?
 Bug tracker for my tf2 server: 
 
-[site](http://tf.athair.us) ( http://tf.athair.us ) | [direct connect](steam://connect/tf.athair.us) ( steam://connect/tf.athair.us )
+[site](http://tf.athair.us) ( http://tf.athair.us )
